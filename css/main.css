@@ -78,7 +78,7 @@ nav .profile-link a {
     font-family: 'Roboto Mono', monospace; */
 }
 .hero{
-    background-image: url('/assets/img/Imágenes/Cover.png');
+    background-image: url('assets/img/Imágenes/Cover.png');
     height: 86%;
     background-size: cover;
     background-repeat: no-repeat;
